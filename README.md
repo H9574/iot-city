@@ -1,5 +1,3 @@
-# IOT-CITY
+![](http://student.labranet.jamk.fi/~H9142/cf2016/IoTinity_logos/IoTitude_logo_subtitle.png "Logo of the IoTitude")
 
-Katso:
-
-IOTCITY-Palvelun vaatimusmäärittely -> [wiki](https://github.com/JAMK-IT/iot-city/wiki)
+[Link to the IoTitude homepage](https://github.com/JAMK-IT/iot-city/wiki)
